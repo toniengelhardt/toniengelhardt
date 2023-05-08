@@ -1,3 +1,6 @@
+<p align="center" style="font-size: 1.2rem;">
+  <b>Projects</b>
+</p>
 <p align="center" style="font-size: 1rem;">
   <samp>
     <a href="https://journalisticapp.com" title="Journalistic - Micro Journaling">Journalistic</a> &middot;
