@@ -1,5 +1,5 @@
 <p align="center" style="font-size: 1.2rem;">
-  <b>Projects</b>
+  <b>Projects / Experiments</b>
 </p>
 <p align="center" style="font-size: 1rem;">
   <samp>
